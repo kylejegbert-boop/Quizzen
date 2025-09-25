@@ -1,0 +1,137 @@
+{
+  "imageSrc": "blob:null/d9a7e728-0fec-4154-8b1f-b98a12a6e8f4",
+  "hotspots": [
+    {
+      "xPercent": 11.77369913923631,
+      "yPercent": 54.166857166885194,
+      "question": "Right Coronary Artery",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "xPercent": 52.53333333333333,
+      "yPercent": 74.1007564097826,
+      "question": "Right Ventricle",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "xPercent": 38.13333333333333,
+      "yPercent": 31.509243203190422,
+      "question": "Aorta",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "xPercent": 77.33333333333333,
+      "yPercent": 87.13248806254589,
+      "question": "Left Anterior Descending Artery",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "xPercent": 64,
+      "yPercent": 62.34041321094745,
+      "question": "Left Ventricle",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "xPercent": 29.599999999999998,
+      "yPercent": 29.284313408816203,
+      "question": "Superior Vena Cava",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "xPercent": 51.46666666666667,
+      "yPercent": 31.19139608970839,
+      "question": "Pulmonary Trunk",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "xPercent": 31.2,
+      "yPercent": 50.26222289863026,
+      "question": "Right Atrium",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "xPercent": 57.06666666666666,
+      "yPercent": 41.998197948097456,
+      "question": "Left Coronary Artery",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "xPercent": 72.26666666666667,
+      "yPercent": 42.95173928854354,
+      "question": "Left Coronary Artery",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "xPercent": 81.86666666666666,
+      "yPercent": 60.115483416573234,
+      "question": "Left Circumflex Artery",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "xPercent": 34.13333333333333,
+      "yPercent": 81.0933929063873,
+      "question": "Inferior vena cava",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
